@@ -17,8 +17,6 @@
 🎮 I like to play games, though I'm not a good player.
 
 
-<span style="font-size: .05rem">I push against master on my README.md</span>
-
 ---
 
 ###  📬 How to reach me:
