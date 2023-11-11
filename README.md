@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/caueferreira/">
     <img src="https://img.shields.io/badge/Cau%C3%AA%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="malito:caue.ferreira@pm.me">
+  <a href="mailto:caue.ferreira@pm.me">
     <img src="https://img.shields.io/badge/caue.ferreira@pm.me-704cfc?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@caueferreira">
