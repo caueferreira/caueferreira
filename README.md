@@ -19,7 +19,7 @@
 
 ---
 
-###  📬 How to reach me:
+###  📬 Feel free to get in touch:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/caueferreira/">
